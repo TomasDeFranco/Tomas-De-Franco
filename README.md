@@ -1,7 +1,7 @@
 # Tomas-De-Franco
-# 🎯 Bienvenido a mi perfil | Welcome to my profile
+# Bienvenido a mi perfil | Welcome to my profile
 
-Hola 👋 **Tomás de Franco** | Data Engineer & Analytics Developer
+Hola, soy **Tomás de Franco** | Data Engineer & Analytics Developer
 
 ---
 
